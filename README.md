@@ -1,4 +1,4 @@
-Plantherbs - cH2-PS219
+Plantherbs - CH2-PS219
 Bangkit Capstone Project 2023
 
 Dataset: 
